@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_BASE = "http://localhost:2200";
+  const API_BASE = "";
 
   const form = document.getElementById("predict-form");
   const submitBtn = document.getElementById("submit-btn");
